@@ -1,1 +1,24 @@
-{"name":"404AHOY #2373","description":"APES ON PLANES","image":"/2373.png","attributes":[{"trait_type":"Backgrounds","value":"Red Pixel 2"},{"trait_type":"Apes","value":"Ape -  (56)"},{"trait_type":"Models Plane","value":"Model 1 Plane -  (55)"},{"trait_type":"Rarity Rank","value":1564,"display_type":"number"}]}
+{
+    "name": "404AHOY #2373",
+    "description": "APES ON PLANES",
+    "image": "https://raw.githubusercontent.com/ultraKelevra/apes-in-planes-metadata/main/images/2373.png",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Red Pixel 2"
+        },
+        {
+            "trait_type": "Apes",
+            "value": "Ape -  (56)"
+        },
+        {
+            "trait_type": "Models Plane",
+            "value": "Model 1 Plane -  (55)"
+        },
+        {
+            "trait_type": "Rarity Rank",
+            "value": 1564,
+            "display_type": "number"
+        }
+    ]
+}
